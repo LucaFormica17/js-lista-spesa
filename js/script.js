@@ -9,3 +9,12 @@ while(i<list.length){
 
     i++
 }
+
+//metodo alternativo
+/* 
+let i=0;
+while(i<list.length){
+    ul.innerHTML += <li>`${list[i]}</li>;
+    i++
+}
+*/
